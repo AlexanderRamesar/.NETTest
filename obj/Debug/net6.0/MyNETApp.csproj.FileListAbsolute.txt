@@ -1,0 +1,15 @@
+C:\Users\axel1\Desktop\MyNETApp\bin\Debug\net6.0\MyNETApp.exe
+C:\Users\axel1\Desktop\MyNETApp\bin\Debug\net6.0\MyNETApp.deps.json
+C:\Users\axel1\Desktop\MyNETApp\bin\Debug\net6.0\MyNETApp.runtimeconfig.json
+C:\Users\axel1\Desktop\MyNETApp\bin\Debug\net6.0\MyNETApp.dll
+C:\Users\axel1\Desktop\MyNETApp\bin\Debug\net6.0\MyNETApp.pdb
+C:\Users\axel1\Desktop\MyNETApp\obj\Debug\net6.0\MyNETApp.csproj.AssemblyReference.cache
+C:\Users\axel1\Desktop\MyNETApp\obj\Debug\net6.0\MyNETApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\axel1\Desktop\MyNETApp\obj\Debug\net6.0\MyNETApp.AssemblyInfoInputs.cache
+C:\Users\axel1\Desktop\MyNETApp\obj\Debug\net6.0\MyNETApp.AssemblyInfo.cs
+C:\Users\axel1\Desktop\MyNETApp\obj\Debug\net6.0\MyNETApp.csproj.CoreCompileInputs.cache
+C:\Users\axel1\Desktop\MyNETApp\obj\Debug\net6.0\MyNETApp.dll
+C:\Users\axel1\Desktop\MyNETApp\obj\Debug\net6.0\refint\MyNETApp.dll
+C:\Users\axel1\Desktop\MyNETApp\obj\Debug\net6.0\MyNETApp.pdb
+C:\Users\axel1\Desktop\MyNETApp\obj\Debug\net6.0\MyNETApp.genruntimeconfig.cache
+C:\Users\axel1\Desktop\MyNETApp\obj\Debug\net6.0\ref\MyNETApp.dll
